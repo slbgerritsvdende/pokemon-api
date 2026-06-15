@@ -3,13 +3,6 @@
     <File Path=".gitignore" />
     <File Path="README.md" />
   </Folder>
-  <Folder Name="/src/">
-    <Project Path="src/Pokedex.API/Pokedex.API.csproj" />
-    <Project Path="src/Pokedex.Application/Pokedex.Application.csproj" />
-    <Project Path="src/Pokedex.Domain/Pokedex.Domain.csproj" />
-    <Project Path="src/Pokedex.Infrastructure/Pokedex.Infrastructure.csproj" />
-  </Folder>
-  <Folder Name="/tests/">
-    <Project Path="tests/Pokedex.UnitTests/Pokedex.UnitTests.csproj" />
-  </Folder>
+  <Folder Name="/src/" />
+  <Folder Name="/tests/" />
 </Solution>
